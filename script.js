@@ -1,4 +1,6 @@
 // Sample project data
+
+//Adding space
 const projects = [
     {
         id: 1,
